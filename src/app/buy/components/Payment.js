@@ -198,15 +198,7 @@ const Payment = ({ breadCrumbs }) => {
                 </div>
                 <div className={styles.bulletPoints}>
                   <div className={styles.bulletBox}>
-                    No large upfront investment required
-                  </div>
-                  <div className={styles.bulletBox}>
                     Customizable rental terms and payment plans
-                  </div>
-                </div>
-                <div className={styles.bulletPoints}>
-                  <div className={styles.bulletBox}>
-                    Low-risk option to test out new copier equipment
                   </div>
                   <div className={styles.bulletBox}>
                     Ability to own the equipment at the end of the rental term
